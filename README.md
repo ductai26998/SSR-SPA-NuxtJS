@@ -31,7 +31,7 @@ Note của buổi học về SSR-SPA-NuxtJS tại Sgroup
 * Quy tắc đặt tên các file/folder có liên quan đến url: kebab-case 
 * store: Tự import mỗi lần tao module mới 
   
-**Note: 
-  * Ba thư mục mà việc dặt tên ảnh hưởng quan trọng đến project: layouts, pages, store
-  * Trong actions.js có hàm nuxtServerInit() sẽ được chạy đầu tiên tỏng lifecycle của Server Side Rendering**
+##Note:
+  *** Ba thư mục mà việc dặt tên ảnh hưởng quan trọng đến project: layouts, pages, store**
+  *** Trong actions.js có hàm nuxtServerInit() sẽ được chạy đầu tiên tỏng lifecycle của Server Side Rendering**
   
